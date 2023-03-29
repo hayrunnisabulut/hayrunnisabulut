@@ -16,15 +16,14 @@ Here are some ideas to get you started:
 <!--<p align="left"> <img src=https://komarev.com/ghpvc/?username=hayrunnisabulut alt=hayrunnisabulut/> </p>-->
 
 ### I'm a full-time Indusrial Engineering Student 👨‍🎓, part-time Business Analyst🔭, freelance Software Developer 🚀!
-- 🔭 I’m currently working as part-time Business Analyst at Türkiye Finans Participition Bank
-- 🌱 I’m currently learning C#, game development
+- 🔭 I’m currently working as a Software Developer at Türkiye Finans Participition Bank
+- ⏲ I'm also scrum master of the team
+- 🌱 I’m currently using C# to develop
 - 👩🏻‍💻 I have written Python for more that 200 hrs.
 - ⚡ Fun fact: I love coding <>, puzzles and swimming.
 - 🔖 I am interested in game development, mobile application and web application development.
 
 ### ⏲ Currently...
-I am a 4rd grade student of Indusrial Engineering at Marmara University 🚀
-I'm learning C# on Turkcell Geleceği Yazanlar, Frot-end development on Kodluyoruz Bootcamp Preparation Program and improving my SQL skills on HackerRank.💻
 
 ### 📩 Connect with me:
 
