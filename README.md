@@ -1,29 +1,13 @@
 
 ## Hi there ,I'm Hayrunnisa 👋
 
-<!--
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!--<p align="left"> <img src=https://komarev.com/ghpvc/?username=hayrunnisabulut alt=hayrunnisabulut/> </p>-->
 
-### I'm a full-time Indusrial Engineering Student 👨‍🎓, part-time Business Analyst🔭, freelance Software Developer 🚀!
-- 🔭 I’m currently working as a Software Developer at Türkiye Finans Participition Bank
-- ⏲ I'm also scrum master of the team
-- 🌱 I’m currently using C# to develop
-- 👩🏻‍💻 I have written Python for more that 200 hrs.
-- ⚡ Fun fact: I love coding <>, puzzles and swimming.
-- 🔖 I am interested in game development, mobile application and web application development.
-
 ### ⏲ Currently...
+- 🔭 I’m working as a Mobile Application Developer at Türkiye Finans Participition Bank
+- 🌱 I’m using C#, MSSQL
+- ⚡ Fun fact: I love coding <>
+
 
 ### 📩 Connect with me:
 
