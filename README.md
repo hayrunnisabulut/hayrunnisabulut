@@ -13,12 +13,12 @@
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-[<img align="left" height="24" width="24" src="https://www.hackerrank.com/hayrunnisa_bulu1" />][hackerrank]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/hackerrank.svg" />][hackerrank]
 <br />
 
 [hackerrank]: https://www.hackerrank.com/hayrunnisa_bulu1
 [linkedin]:  https://www.linkedin.com/in/hayrunnisabulut
-[gmail]: mailto:eceyeliss@gmail.com
+[gmail]: mailto:hayrunnisa.bulut99@gmail.com
 
 <br />
 
