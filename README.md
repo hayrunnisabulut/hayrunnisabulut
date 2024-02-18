@@ -4,7 +4,7 @@
 <!--<p align="left"> <img src=https://komarev.com/ghpvc/?username=hayrunnisabulut alt=hayrunnisabulut/> </p>-->
 
 ### ⏲ Currently...
-- 🔭 I’m working as a Mobile Application Developer at Türkiye Finans Participition Bank
+- 🔭 I’m working as a Mobile Application Developer at Türkiye Finans Participation Bank
 - 🌱 I’m using C#, MSSQL
 - ⚡ Fun fact: I love coding <>
 
